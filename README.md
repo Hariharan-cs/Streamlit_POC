@@ -6,9 +6,9 @@ Clone the project and go inside the project file called **Streamlit_POC**
 
 1. python3 -m venv streamlit-env
 
-2. pip install streamlit
+2. source streamlit-env/bin/activate
 
-3. source streamlit-env/bin/activate
+3. pip install -r requirements.txt
 
 4. streamlit run streamlit.py
 
