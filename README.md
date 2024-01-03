@@ -1,2 +1,2 @@
 # Streamlit_POC
-Integrate ChatGPT with Streamlit 
+Integrated ChatGPT with Streamlit 
